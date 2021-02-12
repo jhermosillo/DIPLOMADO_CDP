@@ -1,4 +1,4 @@
-# 2. Módulo 2 - Análisis Estadístico de Datos
+# Módulo 2 - Análisis Estadístico de Datos
 
 La estadística... como disciplina académica y profesional, es la recolección, análisis e interpretación de datos.
 
