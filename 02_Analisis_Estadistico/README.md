@@ -12,13 +12,15 @@ El contenido se divide de la siguiente manera:
     2.3 Medidas de tendencia central
     2.4 Medidas de dispersión
     2.5 Distribuciones de probabilidad
-	* Breve ejercicio
+    * Breve ejercicio
+
     2.6 Pruebas de hipótesis
     2.7 Definición de error Tipo I  y  error Tipo II
     2.8 Definición de p-value y alpha. 
     2.9 Pruebas de hipótesis: paramétricas y no paramétricas
-        * Ejercicios
+    * Ejercicios
+
     2.10 Uso de Simulación Monte Carlo para modelación.
     2.11 Un poco de web-scrapping
-	* Ejercicios
+    * Ejercicios
 
