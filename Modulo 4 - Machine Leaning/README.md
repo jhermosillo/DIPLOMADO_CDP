@@ -17,9 +17,9 @@ Lista de temas del módulo:
 
 
 Bibliografía
-- Bishop.
+- Kevin P. Murphy. "Machine Learning. A probabilistic approach". MIT Press. 2012.
+http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf
+- Christopher M. Bishop. "Pattern Recognition and Machine Learning". Springer. 2006
  http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
-- Murphy.
- http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf
-- Raschka.
- https://github.com/dkryadav/python-machine-learning-by-sebastian-raschka-and-vahid-mirjalili-pdf-3rd-editio
+- Sebastian Raschka and Vahid Mirjalili. "Python Machine Learning". Packt Publishing.2019
+ https://github.com/rasbt/python-machine-learning-book-3rd-edition
