@@ -6,9 +6,9 @@ Lista de temas del módulo:
 
  1.1) 30/04/2021: Fundamentos de aprendizaje de máquina. Clasificador kNN.
 
- 1.2) 01/05/2021: Naive Bayes.
+ 1.2) 01/05/2021: Métricas de desempeño. Naive Bayes.
 
- 2.1) 07/05/2021: Perceptron y descenso de gradiente.
+ 2.1) 07/05/2021: ROC-AUC. Perceptron y descenso de gradiente.
 
  2.2) 08/05/2021: SVM.
 
