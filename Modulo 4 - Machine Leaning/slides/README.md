@@ -11,3 +11,6 @@ Lista de presentaciones estudiadas.
  3) 07/05/2021: Perceptron.
  4) 08/05/2021: SVM, kernels.
  5) 14/05/2021: Ensemble methods.
+ 6) 15/05/2021: Clustering.
+ 7) 21/05/2021: PCA & t-SNE.
+ 8) 22/05/2021: SOM's.
