@@ -14,5 +14,5 @@ Lista de notebooks con código utilizado en el módulo.
  6) 15/05/2021: ML_06_Clustering.ipynb
  7) 21/05/2021: ML_07_PCA-tSNE.ipynb
  8) 22/05/2021: ML_07_PCA-tSNE.ipynb (SOM's).
- 9) 28/05/2021:
+ 9) 28/05/2021: ML_08_HoG.ipynb
 10) 29/05/2021: ML_11_Proyecto.ipynb
