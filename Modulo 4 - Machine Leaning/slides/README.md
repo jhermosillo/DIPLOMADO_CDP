@@ -14,3 +14,4 @@ Lista de presentaciones estudiadas.
  6) 15/05/2021: Clustering.
  7) 21/05/2021: PCA & t-SNE.
  8) 22/05/2021: SOM's.
+ 9) 28/05/2021: More data formats.
