@@ -6,12 +6,12 @@ a.k.a., Machine Learning
 Lista de presentaciones estudiadas.
 
 
- 1) 30/04/2021: Fundamentos de aprendizaje de máquina. Clasificador kNN.
- 2) 01/05/2021: Medidas de desempeño. Clasificador Bayes ingenuo.
- 3) 07/05/2021: Perceptron.
- 4) 08/05/2021: SVM, kernels.
- 5) 14/05/2021: Ensemble methods.
- 6) 15/05/2021: Clustering.
- 7) 21/05/2021: PCA & t-SNE.
- 8) 22/05/2021: SOM's.
- 9) 28/05/2021: More data formats.
+ 1) 04/06/2021: 01_Intro.
+ 2) 05/06/2021: 03_Backprop - Backprop_Example.
+ 3) 11/06/2021: 
+ 4) 12/06/2021: 
+ 5) 18/06/2021: 
+ 6) 19/06/2021: 
+ 7) 25/06/2021: 
+ 8) 26/06/2021: 
+ 9) 02/07/2021: 
