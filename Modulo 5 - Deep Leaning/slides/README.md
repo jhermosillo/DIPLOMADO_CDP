@@ -11,7 +11,7 @@ Lista de presentaciones estudiadas.
  3) 11/06/2021: 04_Optimizers - 05_Losses.
  4) 12/06/2021: 06_Regularizers.
  5) 18/06/2021: 07_CNN.
- 6) 19/06/2021: 
+ 6) 19/06/2021: 08_Vision.
  7) 25/06/2021: 
  8) 26/06/2021: 
  9) 02/07/2021: 
