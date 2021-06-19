@@ -10,7 +10,7 @@ Lista de notebooks con código utilizado en el módulo.
  3) 11/06/2021: DL_03_Optimizers.ipynb
  4) 12/06/2021: DL_04_Regularizers.ipynb
  5) 18/06/2021: DL_05_CNN.ipynb
- 6) 19/06/2021: 
+ 6) 19/06/2021: DL_06_TransferLearning.ipynb
  7) 25/06/2021: 
  8) 26/06/2021: 
  9) 02/07/2021: 
