@@ -14,4 +14,4 @@ Lista de notebooks con código utilizado en el módulo.
  7) 25/06/2021: DL_07_RNN.ipynb
  8) 26/06/2021: DL_08_B_BERT.ipynb
  9) 02/07/2021: DL_09_AE_anomaly.ipynb, DL_10_CAE.ipynb, DL_11_VAE.ipynb
-10) 03/07/2021: 
+10) 03/07/2021: DL_14a_GAN.ipynb, DL_14b_CGAN.ipynb
