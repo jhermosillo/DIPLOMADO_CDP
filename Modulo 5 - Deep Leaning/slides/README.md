@@ -14,4 +14,5 @@ Lista de presentaciones estudiadas.
  6) 19/06/2021: 08_Vision.
  7) 25/06/2021: 09_Sequences.
  8) 26/06/2021: 10_NLP_Transformers.
- 9) 02/07/2021: 
+ 9) 02/07/2021: 11_AutoEncoders.
+10) 03/07/2021: 12_GANs.
